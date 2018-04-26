@@ -7,4 +7,5 @@ trigger({
     id: 'client.start',
     events: ['client.start']
 }, async (session, models, vars) => {
+    await session.screen('');
 });
