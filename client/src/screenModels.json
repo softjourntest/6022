@@ -36,5 +36,11 @@
     },
     "id": "logingreen",
     "sourcePath": "logingreen"
+  },
+  "home": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {},
+    "id": "home"
   }
 }
