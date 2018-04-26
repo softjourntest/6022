@@ -1,5 +1,13 @@
 {
   "id": "__BASE__",
   "name": "6022",
-  "screens": []
+  "screens": [
+    {
+      "id": "logingreen",
+      "name": "Login-Green",
+      "sourceScreenId": "Login_LoginGreen",
+      "sourceAppId": "universaltemplates"
+    }
+  ],
+  "startScreen": "logingreen"
 }
