@@ -1,3 +1,3 @@
 exports.start = async (session, models, vars) => {
-    await session.screen('logingreen');
+    await session.transform['6022'].start();
 };
