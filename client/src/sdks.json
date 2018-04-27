@@ -44,6 +44,6 @@
     "default": true
   },
   {
-    "id": "cordova-plugin-camera"
+    "id": "cordova-plugin-fingerprint-id"
   }
 ]
