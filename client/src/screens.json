@@ -7,6 +7,12 @@
       "name": "Login-Green",
       "sourceScreenId": "Login_LoginGreen",
       "sourceAppId": "universaltemplates"
+    },
+    {
+      "id": "home",
+      "name": "home",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
     }
   ],
   "startScreen": "logingreen"
