@@ -1,6 +1,6 @@
 {
   "name": "6022",
-  "version": "6.0.22",
+  "version": "6.0.23-dev",
   "private": true,
   "description": "PowWow transformation",
   "main": "start.js",
@@ -8,7 +8,7 @@
     "start": "nodemon start.js | bunyan -o short --color"
   },
   "dependencies": {
-    "smartux-connect": "/usr/share/powwowstudio/dataStore/smartux-connect/6.0.22"
+    "smartux-connect": "/usr/share/powwowstudio/dataStore/smartux-connect/6.0.23-dev"
   },
   "engines": {
     "node": "8.x.x"
